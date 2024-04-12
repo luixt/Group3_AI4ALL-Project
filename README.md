@@ -1,4 +1,3 @@
-# AI4ALL 2024 IGNITE PROJECT
 # Miami Traffic Accidents Severity Predictive Model
 
 ## Project Description

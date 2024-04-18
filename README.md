@@ -11,6 +11,14 @@ We utilize a comprehensive countrywide traffic accident dataset, specifically fo
 ### Kaggle Dataset
 The dataset used in this project was sourced from Kaggle. You can find it [**here**](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
 
+### Test Our Model!
+
+You can test our model using the provided web interface. Simply click on the link below to access the interface:
+
+[**Model Testing Interface**](https://roadaccidentseverity.streamlit.app/)
+
+![Decision Tree Model Image](Data/decision_tree.png)
+
 ### Methodology
 Our methodology encompasses a multi-step process, starting with extensive data preprocessing to clean and prepare the dataset for analysis. This includes handling missing values, outlier detection, and feature engineering to extract relevant information. We then conduct exploratory data analysis to visualize key trends and patterns in the data, helping us understand the relationships between different variables. Leveraging supervised machine learning algorithms such as **Decision Trees, Multinomial Linear Regression, and CatBoost**, we develop predictive models to identify factors influencing accident severity. These models are rigorously evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure their effectiveness and reliability.
 

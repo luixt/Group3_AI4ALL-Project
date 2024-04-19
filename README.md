@@ -40,7 +40,7 @@ Our methodology encompasses a multi-step process, starting with extensive data p
   
 ### Version Control:
 - **Git:** Used for version control and collaboration among team members.
--**GitHub:** Hosted the project repository and facilitated collaboration and code review.
+- **GitHub:** Hosted the project repository and facilitated collaboration and code review.
 
 ## Achievements
 

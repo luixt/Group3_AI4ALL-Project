@@ -61,4 +61,4 @@ Our methodology encompasses a multi-step process, starting with extensive data p
 - [Luis Delgado](https://github.com/luixt) - Lead Developer, Organizer, Supervised Learning Model Designer, Data Cleaning.
 - [Juliana Garcia](https://github.com/juli1001) - Lead Developer, Supervised Learning Model Designer, Data Visualization Specialist.
 - [Veena Gonugondla](https://github.com/vngonugondla) - Visualization design and implementation.
-- [Alexandra Ladyzhensky]() - 
+- [Alexandra Ladyzhensky](https://github.com/ladyyalex) -  Visualization design and implementation.
